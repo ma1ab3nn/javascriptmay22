@@ -1,2 +1,2 @@
 # javascriptmay22
-# This is the work I completed during the 8st of May lesson on JS Functions & Control Flow Practical
+# This is the work I completed during the 22nd May Loops, Arrays and Objects - Lesson 1 Tasks
