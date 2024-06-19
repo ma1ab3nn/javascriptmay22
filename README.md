@@ -1,2 +1,1 @@
-# javascriptmay22
-# This is the work I completed during the 22nd May Loops, Arrays and Objects - Lesson 1 Tasks
+Programme to practice  Loops, Arrays and Objects. I did things such as Use a for loop to print a list of all your favourite foods, and Create an object to hold information on your favourite recipe. Then display the properties on screen.
